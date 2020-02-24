@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FFsim/pi-pins.git"
+    "url": "https://github.com/ffsim/pi-pins.git"
   },
   "keywords": [
     "gpio",
@@ -17,9 +17,9 @@
   "author": "Simone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FFsim/pi-pins/issues"
+    "url": "https://github.com/ffsim/pi-pins/issues"
   },
-  "homepage": "https://github.com/FFsim/pi-pins",
+  "homepage": "https://github.com/ffsim/pi-pins",
   "dependencies": {
     "epoll": "^3.0.0"
   }
